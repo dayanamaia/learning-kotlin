@@ -1,4 +1,4 @@
-package aboutCollections
+package aboutcollections
 
 /*
 *   List

@@ -1,4 +1,4 @@
-package aboutCollections
+package aboutcollections
 
 data class Receita(val nome: String, val calorias: Int, val ingredientes: List<Ingredientes> = listOf())
 data class Ingredientes(val nome: String, val quantidade: Int)
